@@ -1,6 +1,6 @@
 <img src="./senai-logo.png">
 
-## Exercícios SENAI Segundo Semestre
+## Exercícios SENAI A. JACOB LAFER Segundo Semestre
 
 Atividades feitas no segundo semestre na matéria de linguagens de marcação.
 ##
